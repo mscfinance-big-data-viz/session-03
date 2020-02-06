@@ -1,0 +1,17 @@
+﻿ratio;value;ticker
+profit_margin;0.044240344;AAP
+operating_margin;0.063073075;AAP
+cash_ratio;0.230709865;AAP
+debt_asset;0.545499615;AAP
+profit_margin;0.150154041;MSFT
+operating_margin;0.317669445;MSFT
+cash_ratio;2.287101628;MSFT
+debt_asset;0.505045432;MSFT
+profit_margin;0.076688353;NFLX
+operating_margin;0.101632984;NFLX
+cash_ratio;0.584907635;NFLX
+debt_asset;0.648614713;NFLX
+profit_margin;-0.045481516;TSLA
+operating_margin;-0.011781224;TSLA
+cash_ratio;0.368851865;TSLA
+debt_asset;0.670882009;TSLA
